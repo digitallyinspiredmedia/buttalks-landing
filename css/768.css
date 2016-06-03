@@ -1,0 +1,29 @@
+.bag {
+    width: 278px;
+    height: auto;
+}
+.bag img{
+	left: 24px;
+}
+.cat {
+    width: 334px;
+    height: auto;
+}
+.cat img{
+    left: 30px;
+}
+.human{
+    width: 430px;
+    height: auto;
+}
+.bow {
+    width: 120px;
+    height: auto;
+}
+.bow img {
+    position: relative;
+    top: 60px;
+}
+.logtextwarapper {
+    width: 596px;
+}

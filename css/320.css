@@ -1,0 +1,80 @@
+/* black and yellow content */
+img{
+    width: 100%;
+     /*add unknown blur */
+       -webkit-filter: blur(0px) !important;
+  -moz-filter: blur(0px) !important;
+  -o-filter: blur(0px) !important;
+  -ms-filter: blur(0px) !important;
+  filter: blur(0px) !important;
+}
+.black-container{
+    padding: 8px;
+    top: -16px;
+}
+#yellow-container{
+    margin-top: 6px;   
+    margin: 0;
+}
+/* animation content */
+.panel{
+    position: static;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: auto;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    transform: translate(0%, 0vh);
+}
+.human{
+    width: 188px;
+    height: auto;
+}
+.bow{
+    width: 46px;
+    height: auto;
+}
+.bow img{
+    position: relative;
+    left: 6px;
+}
+.cat{
+    width: 280px;
+     /* add unknown blur */
+       -webkit-filter: blur(0px) !important;
+  -moz-filter: blur(0px) !important;
+  -o-filter: blur(0px) !important;
+  -ms-filter: blur(0px) !important;
+  filter: blur(0px) !important;
+}
+.cat img{
+    position: relative;
+    left: 23px;
+    /*add unknown blur */
+       -webkit-filter: blur(0px) !important;
+  -moz-filter: blur(0px) !important;
+  -o-filter: blur(0px) !important;
+  -ms-filter: blur(0px) !important;
+  filter: blur(0px) !important;
+}
+.bag{
+    width: 120px;
+    height: auto;
+}
+.bag img{
+    position: relative;
+    left: 10px;
+}
+/* logo */
+.logtextwarapper{
+	width: 80%;
+}
+.logtextwarapper img{
+	width: 100%;
+}
+p span {
+    font: 300 20px/normal 'Lato', sans-serif;
+    padding: 10px 0px 10px;
+}

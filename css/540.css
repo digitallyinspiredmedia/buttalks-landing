@@ -1,0 +1,26 @@
+.bag {
+    width: 218px;
+    height: auto;
+}
+.bag img{
+	left: 24px;
+}
+.cat {
+    width: 255px;
+    height: auto;
+}
+.cat img{
+    left: 26px;
+}
+.human{
+    width: 342px;
+    height: auto;
+}
+.bow {
+    width: 96px;
+    height: auto;
+}
+.bow img {
+    position: relative;
+    top: 30px;
+}
